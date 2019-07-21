@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>telus.wfm</groupId>
-	<artifactId>activeMqClient</artifactId>
+	<artifactId>activemq-testclient</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>activeMqClient</name>
 	<description>Demo project for Spring Boot</description>
