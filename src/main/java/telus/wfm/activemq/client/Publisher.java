@@ -60,7 +60,7 @@ class Publisher {
 
         producer.send(session.createTextMessage("SHUTDOWN"));
         connection.close();
-        
+        //
     }
 
     private static String env(String key, String defaultValue) {
